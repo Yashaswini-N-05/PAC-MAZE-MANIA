@@ -1,1 +1,2 @@
 # PAC-MAZE-MANIA
+This is a classic grid-based Pac-Man-inspired game where the player navigates a maze, collecting pellets while avoiding AI-controlled ghosts. The player can move in four directions, and the ghosts employ different strategies, including aggressive pursuit and random wandering. The game ends when all pellets are collected (win) or when a ghost catches the player (loss). It incorporates AI pathfinding with the A* algorithm for strategic ghost movement.
